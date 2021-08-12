@@ -1,1 +1,1 @@
-i am deps-repl library - i open clj repl and nrepl into a program
+i am deps-repl library - i open clj repl into a program
