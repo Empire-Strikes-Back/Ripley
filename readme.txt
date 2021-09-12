@@ -1,1 +1,1 @@
-i am ripley library - i open clojure repl into program
+i am Ripley library - i open clojure repl into program
