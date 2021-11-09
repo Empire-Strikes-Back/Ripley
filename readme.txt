@@ -1,1 +1,1 @@
-i am deps-repl library - i open clojure repl into a program
+this is Ripley, i open clojure repl into program, signing off
